@@ -66,3 +66,16 @@ figcaption{font-size:12.5px;line-height:1.45;color:#666;margin-top:8px}
 .dgroup .disc{display:block;border-top:0;padding:0 0 22px}
 .dgroup .disc+.disc{border-top:1px solid #e5e5e5;padding-top:22px}
 @media(max-width:760px){.dgroup{flex-direction:column;gap:10px}}
+/* Phones: title and authors first, then figure, then links */
+@media(max-width:760px){
+ .card{display:flex;flex-direction:column;gap:0}
+ .card .body{display:contents}
+ .card h3{order:1}
+ .card .auth{order:2;margin-bottom:14px}
+ .card .figwrap{order:3;flex:none;width:100%;margin:0 0 12px}
+ .card .fig{width:100%;height:auto;max-height:210px}
+ .card .fig img{max-height:210px;width:auto;margin:0 auto}
+ .card .links{order:4}
+ .card .panel{order:5}
+ .card .media{order:6}
+}
