@@ -1,0 +1,281 @@
+{
+ "coauthor_links": {
+  "Efraim Benmelech": "https://www.kellogg.northwestern.edu/faculty/directory/benmelech_efraim/",
+  "Bo Becker": "https://sites.google.com/site/bobecker2/",
+  "Menaka Hampole": "https://som.yale.edu/faculty-research/faculty-directory/menaka-v-hampole",
+  "Adam Jørring": "http://www.adamjorring.com/",
+  "Fergal Hanks": "https://hanksf.github.io/",
+  "Andrea Ferrara": "https://andreaferrara1997.github.io/",
+  "Liangjie Wu": "http://www.liangjiewu.com",
+  "Zhang Chen": "https://www.zhangchenecon.com"
+ },
+ "papers": [
+  {
+   "section": "Working Papers",
+   "title": "The Value Gap: Europe Cannot Scale",
+   "coauthors": "Bo Becker and Efraim Benmelech",
+   "year": "2026",
+   "abstract": "In 2008, the aggregate market value of U.S.-listed firms was roughly one-third higher than that of European-listed firms. By 2023, it was more than 300% higher, a difference of $34 trillion. The valuation gap is broad-based, rather than concentrated among a few superstar firms, and is driven by differences in firm values, not in the number of listed firms. Across sectors, the gap is larger in R&amp;D-intensive industries and in industries with high returns to scale. European firms’ size is strongly correlated with home-country GDP, whereas U.S. firms’ size is unrelated to home-state GDP. Smaller European firms also face a particularly large cost-of-capital gap and do not appear able to substitute debt for limited access to equity financing, including venture capital. Taken together, these facts suggest that financial and product-market frictions constrain European firms’ ability to scale.",
+   "links": [
+    {
+     "label": "PDF",
+     "url": "eu-paper.pdf"
+    },
+    {
+     "label": "NBER WP 35577",
+     "url": "https://www.nber.org/papers/w35577"
+    }
+   ],
+   "bib": "eu-cite.bib",
+   "media": [
+    {
+     "label": "VoxEU",
+     "url": "https://cepr.org/voxeu/columns/small-and-stuck-why-european-firms-cant-scale"
+    }
+   ],
+   "figure": "img/fig-eu.png",
+   "caption": "Gap between U.S. and European stock market value, in trillion USD."
+  },
+  {
+   "section": "Working Papers",
+   "title": "War and Democratic Backsliding",
+   "coauthors": "Efraim Benmelech",
+   "year": "2026",
+   "abstract": "We provide the first global, long-run evidence on how war reshapes democratic institutions. Using data on all conflicts since 1948, we show that the onset of conflict causes a large and persistent decline in democracy: institutions weaken immediately relative to comparable countries, continue to erode for nearly a decade, and do not recover. Yet this deterioration is highly selective. It appears only in first-time conflicts, intrastate wars, highly fractionalized societies, and conflicts that governments win. The decline operates through political channels – media censorship, judicial purges, curtailed civil liberties, irregular leadership turnover, and constitutional suspensions – rather than through any functional requirement of war-making. Autocratization does not increase the probability of victory, and institutional instability reduces it. Taken together, the findings show that war does not require autocracy; it enables executives to expand their authority and implement institutional changes that would be difficult to enact in peacetime.",
+   "links": [
+    {
+     "label": "PDF",
+     "url": "backsliding-paper.pdf"
+    },
+    {
+     "label": "NBER WP 34734",
+     "url": "https://www.nber.org/papers/w34734"
+    }
+   ],
+   "bib": "backsliding-cite.bib",
+   "media": [
+    {
+     "label": "VoxEU",
+     "url": "https://cepr.org/voxeu/columns/when-war-weakens-democracy"
+    }
+   ],
+   "figure": "img/fig-backsliding.png",
+   "caption": "Change in the democracy index of countries entering a conflict, relative to countries at peace, by year since conflict onset."
+  },
+  {
+   "section": "Working Papers",
+   "title": "The Economic Consequences of War",
+   "coauthors": "Efraim Benmelech",
+   "year": "2026",
+   "abstract": "We provide systematic evidence on the macroeconomic consequences of war using a new dataset covering 115 conflicts over the past 75 years. We document three main findings. First, conflict generates large and persistent real effects: real GDP falls by 12%, with no recovery even after a decade. The decline in real activity is more pronounced for intrastate than for interstate conflicts. Second, government finances deteriorate as revenues contract, expenditures remain stable, and governments shift toward short-term debt. Third, governments rely on inflationary finance, eroding real debt and generating seigniorage while depressing investment by raising the cost of imported capital goods.",
+   "links": [
+    {
+     "label": "PDF",
+     "url": "cost-of-war-paper.pdf"
+    },
+    {
+     "label": "NBER WP 34389",
+     "url": "https://www.nber.org/papers/w34389"
+    }
+   ],
+   "bib": "cost-of-war-cite.bib",
+   "media": [
+    {
+     "label": "VoxEU",
+     "url": "https://cepr.org/voxeu/columns/lasting-economic-scars-war"
+    },
+    {
+     "label": "VoxDev",
+     "url": "https://voxdev.org/topic/institutions-political-economy/lasting-economic-impacts-war"
+    },
+    {
+     "label": "NPR Planet Money",
+     "url": "https://www.npr.org/sections/planet-money/2025/11/04/g-s1-96043/a-planet-money-guide-to-five-fascinating-economic-studies"
+    },
+    {
+     "label": "Kellogg Insight",
+     "url": "https://insight.kellogg.northwestern.edu/article/the-economic-price-we-pay-for-war"
+    }
+   ],
+   "figure": "img/fig-war.png",
+   "caption": "Change in real GDP of countries entering a conflict, relative to countries at peace, by year since the conflict began."
+  },
+  {
+   "section": "Working Papers",
+   "title": "Bank Regulation and the Margins of Trade",
+   "coauthors": "Pedro Moreira",
+   "year": "2026",
+   "abstract": "We study how tighter credit conditions affect firms’ international trade. Exploiting a Basel III change that raised credit costs for exports to high-risk destinations but not others, we identify the causal effects of credit tightening on exporters. Using firm-level exports matched to loan-level credit registry records, we find that higher financing costs cause large, persistent export declines to high-risk destinations. Firms cut export volumes, exit markets, and shift toward less working-capital-intensive products. This substitution is incomplete, and overall sales fall. Exposed firms also obtain fewer loans, and the loans they receive are smaller and carry higher interest rates.",
+   "links": [
+    {
+     "label": "PDF",
+     "url": "trade-finance-paper.pdf"
+    }
+   ],
+   "bib": "trade-finance-cite.bib",
+   "media": [],
+   "figure": "img/fig-trade.png",
+   "caption": "Effect of the Basel III change on the value of Portuguese exports to high-risk destinations, relative to low-risk ones, by year."
+  },
+  {
+   "section": "Working Papers",
+   "title": "Capital, Intangibles, and Financial Frictions",
+   "coauthors": "Fergal Hanks",
+   "year": "2026",
+   "abstract": "How do financial frictions shape firms’ investment in intangible capital? We show that financial constraints distort not only how much firms invest, but also what they invest in. Exploiting an investment subsidy in Portugal that raised firms’ internal liquidity while subsidizing physical and intangible capital at the same rate, we find that treated firms reduced their capital-to-intangible ratio by 7.6 percent. The response is concentrated where the subsidy was more generous, among highly leveraged and cash-poor firms, and among firms whose initial capital mix signals larger distortions. Going beyond average effects, we use quantile treatment effects to recover the cross-sectional distribution of wedges between the marginal rate of technical substitution and relative input prices in the least distorted economy consistent with the data. Even in this conservative benchmark, at most five percent of firms are unconstrained, while at least one quarter face wedges exceeding twenty percent.",
+   "links": [
+    {
+     "label": "PDF",
+     "url": "intangibles-paper.pdf"
+    }
+   ],
+   "bib": "intangibles-cite.bib",
+   "media": [],
+   "figure": "img/fig-intangibles.png",
+   "caption": "Effect of the investment subsidy on firms’ ratio of physical to intangible capital, treated vs. control firms, by year."
+  },
+  {
+   "section": "Working Papers",
+   "title": "Military Spending and War",
+   "coauthors": "Efraim Benmelech",
+   "year": "2026",
+   "abstract": "We study whether military spending deters conflict. Using 75 years of data covering 161 countries, we find no evidence that military spending raises conflict risk in the short run, but it produces a small and persistent decline over longer horizons. Deterrence is stronger among democracies and extends to nonstate challengers, which account for most modern conflicts. We use a dynamic bargaining model to explain these results. In our model, military spending buys peace only by making war more costly, and how much peace it buys depends on how much spending raises the cost of war, how strongly the outbreak of war responds to that cost, and how long wars last once they start. Measuring each force separately, we find that the persistence of war matters little. Deterrence is instead held back by two limits of similar size: military spending raises the cost of war by little, and incumbents convert little of a costlier war into peace, using most of it to extract better terms. Removing either limit would make military spending roughly seven times more effective.",
+   "links": [
+    {
+     "label": "PDF",
+     "url": "conflict-paper.pdf"
+    },
+    {
+     "label": "NBER WP 34123",
+     "url": "https://www.nber.org/papers/w34123"
+    }
+   ],
+   "bib": "conflict-cite.bib",
+   "media": [],
+   "figure": "img/fig-conflict.png",
+   "caption": "Effect of higher military spending on the probability of being in a conflict up to 20 years ahead, with 90% and 95% confidence bands."
+  },
+  {
+   "section": "Working Papers",
+   "title": "Who Benefits from the Export-Import Bank Aid?",
+   "coauthors": "Efraim Benmelech",
+   "year": "2025",
+   "abstract": "We study the effectiveness of U.S. industrial policy by examining a sharp disruption in the Export-Import Bank’s ability to support exporters. In 2015, EXIM lost the quorum required to approve large loan guarantees, reducing total aid. We focus on Boeing, EXIM’s largest beneficiary, and use detailed aircraft-level data to measure how the lapse affected orders. On average, demand for Boeing aircraft did not decline—despite 12 percent of sales having been EXIM-financed. However, airlines based in developing countries and those with low liquidity significantly reduced their purchases, consistent with binding credit constraints. By contrast, carriers in developed countries show no response. Since EXIM’s stated objective is to maximize U.S. exports, aid should be directed toward customers whose demand is most sensitive to credit terms. Under this criterion, the pre-shock allocation appears inefficient: reallocating aid toward credit-constrained buyers could have raised Boeing orders by 16%.",
+   "links": [
+    {
+     "label": "PDF",
+     "url": "boeing-exim.pdf"
+    },
+    {
+     "label": "NBER WP 31562",
+     "url": "https://www.nber.org/papers/w31562"
+    }
+   ],
+   "bib": "boeing-exim-cite.bib",
+   "media": [],
+   "figure": "img/fig-exim.png",
+   "caption": "Effect of the 2015 EXIM lapse on airlines’ likelihood of ordering from Boeing, for buyers in low- vs. high-GDP-per-capita countries."
+  },
+  {
+   "section": "Working Papers",
+   "title": "Does Distance Still Matter? Evidence from 30 Years of Mortgage Lending",
+   "coauthors": "Menaka Hampole and Adam Jørring",
+   "year": "2025",
+   "abstract": "Mortgage lending by banks is still predominantly a local business. Local branches have a significant advantage in attracting and originating mortgages. More than 25% of borrowers are less than two miles from their branch, and more than 50% are within 10 miles. Distance is associated with lower credit quality, and the additional risk is priced: higher distance is associated with a lower probability of approval, a higher interest rate spread, and a higher ex-post likelihood of delinquency. We document business cycle patterns as the distance rises in booms and falls in busts but find that the sensitivity of distance for loan approval and pricing has persisted over the past 30 years despite the dramatic rise in securitization and online banking. Using a quantitative spatial model of the mortgage market, we explore the economic mechanisms driving our results. Through the lens of the model, we find that decreasing search costs lowers the match quality of borrower search, which counteracts the effects of increasing screening technology. Our findings highlight that local bank branches are still highly relevant despite the “fintech” revolution.",
+   "links": [
+    {
+     "label": "PDF",
+     "url": "distance-paper.pdf"
+    }
+   ],
+   "bib": "distance-cite.bib",
+   "media": [],
+   "figure": "img/fig-distance.png",
+   "caption": "Median distance (km) between U.S. mortgage borrowers and the lending bank’s nearest branch, 1994–2023. Grey bars mark recessions."
+  },
+  {
+   "section": "Working Papers",
+   "title": "Intra-Household Decisions and Labor Market Outcomes: Evidence from Shared Parental Leave",
+   "coauthors": "Andrea Ferrara and Menaka Hampole",
+   "year": "2024",
+   "abstract": "This paper examines the impact of intra-household decisions over the split of childcare duties on labor market outcomes. We study the introduction of shared parental leave in Portugal, which allows parents to decide on the allocation of leave days. Using a model of the household, we show that introducing shared parental leave leads to an increase in women’s wages, as they are allocated a lower share of childcare duties when compared with the allocation before shared parental leave is introduced. Moreover, this wage increase should be more pronounced for high-productivity women. Using a novel data set which combines household data with matched employer-employee data, we find that the monthly wages of women increase by 1 percent relative to the wages of men. We also find that most of this increase is driven by women who are the primary earners in their household. Our results suggest that the effectiveness of childcare policies in mitigating gender inequality in the labor market may be determined by intra-household decisions.",
+   "links": [
+    {
+     "label": "PDF",
+     "url": "parental-leave-paper.pdf"
+    },
+    {
+     "label": "Slides",
+     "url": "parental-leave-slides.pdf"
+    }
+   ],
+   "bib": "parental-leave-cite.bib",
+   "media": [],
+   "figure": "img/fig-parental.png",
+   "caption": "Wages of women who are their household’s main earner, relative to other women, before and after shared parental leave (2009)."
+  },
+  {
+   "section": "Work in Progress",
+   "title": "The Lifecycle of the Labor Share",
+   "coauthors": "Zhang Chen and Liangjie Wu",
+   "year": null,
+   "abstract": "",
+   "links": [],
+   "bib": null,
+   "media": [],
+   "figure": null,
+   "caption": null
+  }
+ ],
+ "discussions": [
+  {
+   "title": "Entrepreneurship on a Safety Net: Evidence from the World’s Largest Cash Transfer Program",
+   "authors": "Campello, Junqueira, and Lagaras",
+   "venue": "Summer Conference of Financial Intermediation and Corporate Finance",
+   "year": 2026,
+   "slides": "dicussion-entrepreneurship-discussion.pdf"
+  },
+  {
+   "title": "The Price of War",
+   "authors": "Federle, Meier, Müller, Mutschler, and Schularick",
+   "venue": "ECB-IMF Conference on Fiscal Policy and EMU Governance",
+   "year": 2025,
+   "slides": "discussion-war-discussion.pdf"
+  },
+  {
+   "title": "Inflation and Floating-Rate Loans: Evidence from the Euro-Area",
+   "authors": "Core, De Marco, Eisert, and Schepens",
+   "venue": "Monetary Policy and Heterogeneity in Households, Firms, and Financial Intermediaries: Insights from Microdata",
+   "year": 2025,
+   "slides": "discussion-adjustable-rates-discussion.pdf"
+  },
+  {
+   "title": "Central Bank Liquidity Reallocation and Bank Lending: Evidence from the Tiering System",
+   "authors": "Altavilla, Boucinha, Burlon, Giannetti, and Schumacher",
+   "venue": "BSE Summer Forum",
+   "year": 2024,
+   "slides": "discussion-tiering-discussion.pdf"
+  },
+  {
+   "title": "Financing the Global Shift to Electric Mobility",
+   "authors": "Bena, Bian, and Tang",
+   "venue": "FIRS",
+   "year": 2024,
+   "slides": "discussion-electric-discussion.pdf"
+  },
+  {
+   "title": "EXIM’s Exit: The Real Effects of Trade Financing by Export Credit Agencies",
+   "authors": "Kabir, Matray, Müller, and Xu",
+   "venue": "Adam Smith Workshop",
+   "year": 2024,
+   "slides": "discussion-exim-discussion.pdf"
+  },
+  {
+   "title": "Signaling with Debt Currency Choice",
+   "authors": "Eren, Malamud, and Zhou",
+   "venue": "SFS Cavalcade",
+   "year": 2023,
+   "slides": "discussion-signaling-discussion.pdf"
+  }
+ ]
+}
